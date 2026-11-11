@@ -1,0 +1,10 @@
+{
+  "name": "gestion-academica",
+  "version": "1.0.0",
+  "description": "Sistema de gestion academica",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  }
+}
